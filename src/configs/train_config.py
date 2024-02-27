@@ -93,7 +93,7 @@ class LogConfig:
     # Experiment name
     exp_name: str
     # Experiment output dir
-    exp_root: Path = Path('personal/experiments/')
+    exp_root: Path = Path('experiments/')
     # Run only test
     eval_only: bool = False
     # Number of angles to sample for eval during training
