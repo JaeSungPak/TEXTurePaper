@@ -1,5 +1,5 @@
 transformers
-diffusers
+diffusers==0.10.0
 accelerate
 huggingface-hub
 ninja
